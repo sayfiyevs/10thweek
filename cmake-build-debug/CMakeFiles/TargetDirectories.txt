@@ -1,0 +1,3 @@
+C:/Users/sardorbek/CLionProjects/10thweek/cmake-build-debug/CMakeFiles/10thweek.dir
+C:/Users/sardorbek/CLionProjects/10thweek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sardorbek/CLionProjects/10thweek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
